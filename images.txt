@@ -12,5 +12,6 @@ milvusdb/milvus:v2.4.3
 mysql:8.0.36
 ghcr.io/songquanpeng/one-api
 savatar101/omniparse:0.1
+registry.cn-shanghai.aliyuncs.com/sharespace/docker-proxy
 # savatar101/omniparse:0.1
 # xprobe/xinference
