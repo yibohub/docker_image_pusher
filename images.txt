@@ -4,7 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-syncthing/syncthing  #同步软件
+#同步软件
+syncthing/syncthing  
+#fastgpt
 ghcr.io/labring/fastgpt-sandbox
 ghcr.io/labring/fastgpt
 minio/minio:RELEASE.2023-03-20T20-16-18Z
@@ -12,6 +14,8 @@ quay.io/coreos/etcd:v3.5.5
 milvusdb/milvus:v2.4.3
 mysql:8.0.36
 ghcr.io/songquanpeng/one-api
-#savatar101/omniparse:0.1  #PDF转md，要用在线模型
-registry.cn-shanghai.aliyuncs.com/sharespace/docker-proxy #在线docker代理项目
+#PDF转md，要用在线模型
+#savatar101/omniparse:0.1  
+#在线docker代理项目
+registry.cn-shanghai.aliyuncs.com/sharespace/docker-proxy 
 # xprobe/xinference
