@@ -17,5 +17,6 @@ ghcr.io/songquanpeng/one-api
 #PDF转md，要用在线模型
 #savatar101/omniparse:0.1  
 #在线docker代理项目
+cleverest/crproxy
 # xprobe/xinference
 louislam/uptime-kuma:1
