@@ -20,3 +20,5 @@ ghcr.io/songquanpeng/one-api
 cleverest/crproxy
 # xprobe/xinference
 louislam/uptime-kuma:1
+# alist
+xhofe/alist:latest
