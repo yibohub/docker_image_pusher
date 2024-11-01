@@ -12,3 +12,4 @@ louislam/uptime-kuma
 # alist
 xhofe/alist:latest
 funcman/115pc
+lobehub/lobe-chat
